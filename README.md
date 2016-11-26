@@ -19,6 +19,17 @@
 * [Redis](http://redis.io/download)
 * [MySql](http://dev.mysql.com/downloads/mysql/)
 
+## More Database (really?!)
+
+* [MariaDB](https://downloads.mariadb.org/)
+* [PostreSQL](https://www.postgresql.org/download/)
+* [Oracle](https://www.oracle.com/downloads/index.html)
+* [CouchDB](https://couchdb.apache.org/)
+* [CouchBase](http://www.couchbase.com/nosql-databases/downloads)
+* [Neo4j](https://neo4j.com/download/)
+* [RethinkDB](https://www.rethinkdb.com/)
+* [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+
 ## NodeJS
 
 * [NVM](https://github.com/creationix/nvm)
